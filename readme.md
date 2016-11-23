@@ -1,4 +1,4 @@
-# Laravel PHP Framework
+﻿# Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
@@ -29,4 +29,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # curso realizado pelo EspecializaTi
 # link do youtube https://www.youtube.com/watch?v=-AVa6GNpEL8&list=PLVSNL1PHDWvTch1r8uTSluw9SkzSA9cDJ
 # Lembrando que nas aulas do youtube é utilizado laravel 5.2 e eu utilizo 5.3
-# Ressalto que esta desenvolvido apenas o conseito, irei progredindo com a logica e irei postando as atualizações
+# Ressalto que esta desenvolvido apenas o conceito, irei progredindo com a logica e irei postando as atualizações
